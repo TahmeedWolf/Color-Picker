@@ -55,7 +55,7 @@ git clone https://github.com/TahmeedWolf/Color-Picker.git
 2. **Navigate into the project folder**
 
 ```bash
-cd color-picker
+cd Color-Picker
 ```
 
 3. **Install dependencies**

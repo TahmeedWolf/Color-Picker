@@ -49,7 +49,7 @@ Make sure you have the following installed:
 1. **Clone the repository**
 
 ```bash
-git clone gh repo clone TahmeedWolf/color-picker
+git clone https://github.com/TahmeedWolf/Color-Picker.git
 ```
 
 2. **Navigate into the project folder**
